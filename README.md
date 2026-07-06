@@ -6,3 +6,5 @@ Downloads and auto-update feed for the **Live Tokens** macOS app — a menu-bar 
 - The `.zip` and `latest-mac.yml` assets are the auto-update feed consumed by the app itself — no need to download them manually.
 
 The app's source code lives in a private repository.
+
+**Found a bug or have a feature request?** [Open an issue](https://github.com/eiselmayer/live-tokens-releases/issues).
